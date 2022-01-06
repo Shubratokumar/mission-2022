@@ -21,7 +21,7 @@ h1{
     color: rgb(250, 235, 250);
     font-weight: 600;    
 }
-/* common ends here */
+/* common codes ends here */
 
 /* Determinations starts here */
 .determination{
@@ -46,13 +46,14 @@ h1{
 #border{
     border-left: tomato 5px solid;
     padding-left: 30px;
-    border-radius: 5px ;
+    border-radius: 5px;
 }
 /* Determinations ends here */
 
 /* Mission starts here */
 #mission-h1{
     text-align: center;
+    font-weight: bolder;
 }
 .one-third-width{
     width: 33%;
@@ -81,7 +82,7 @@ h1{
 
 /* Development starts here */
 .development{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right;    
 }
@@ -105,7 +106,7 @@ h1{
 
 /* Community starts here */
 .community{
-    background-image: url(/images/shapes/exp-bg.png);
+    background-image: url(images/shapes/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -129,7 +130,7 @@ h1{
 
 /* Team starts here */
 .team{
-    background-image: url(/images/shapes/bg.png);
+    background-image: url(images/shapes/bg.png);
     background-repeat: no-repeat;
     background-position: right;    
 }
